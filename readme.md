@@ -4,7 +4,7 @@ A lazy local cache for npm
 
 ### How?
 
-> git clone git@github.com:noahjs/npm_lazy.git && cd npm_lazy && npm install && forever server.js
+> git clone git@github.com:noahjs/npm_lazy.git && cd npm_lazy && npm install && node node_modules/forever/bin/forever server.js
 
 ### Why?
 
