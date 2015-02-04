@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/mixu/npm_lazy.git"
+    "url": "git://github.com/noahjs/npm_lazy.git"
   },
   "devDependencies": {
     "mocha": "*"
